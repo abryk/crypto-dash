@@ -29,5 +29,8 @@
     "eslint-plugin-react-refresh": "^0.4.19",
     "globals": "^16.0.0",
     "vite": "^6.3.5"
+  },
+  "allowScripts": {
+    "playwright@1.61.1": true
   }
 }
